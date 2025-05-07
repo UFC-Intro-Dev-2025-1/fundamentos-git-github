@@ -45,7 +45,7 @@ Para saber mais sobre branches, leia ["Sobre Branches"](https://docs.github.com/
 
 ## 📚 Recursos
 
-* [Treine conceitos git nesta ferramenta](https://git-school.github.io/visualizing-git/#free)
+* [Treine conceitos git nesta ferramenta](https://git-school.github.io/visualizing-git/)
 * [Um vídeo curto explicando o que é o GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
 * [Recursos de aprendizado sobre Git e GitHub](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
 * [Entendendo o GitHub flow](https://guides.github.com/introduction/flow/)
