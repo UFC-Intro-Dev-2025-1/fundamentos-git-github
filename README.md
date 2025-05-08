@@ -1,4 +1,4 @@
-# :wave: Fundamentos Git e GitHub
+# :wave: Fundamento Git e GitHub
 
 ## 🤓 Visão Geral
 
